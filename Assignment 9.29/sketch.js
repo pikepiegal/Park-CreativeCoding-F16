@@ -3,6 +3,7 @@ var spacing = 10;
 
 function setup(){
   createCanvas(1200,600);
+  background(125);
 }
 
 function draw(){
