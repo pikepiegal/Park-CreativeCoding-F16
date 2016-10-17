@@ -1,0 +1,12 @@
+#background {
+	position: absolute;
+    width: 1260px;
+    height: 695px;
+    background-image: url('this.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+    background-size: 100%;
+    opacity: 0.35;
+}
+
