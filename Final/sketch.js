@@ -1,3 +1,6 @@
+//Daniel Park
+//JSON data retrieved from http://nssdc.gsfc.nasa.gov/planetary/factsheet/
+
 var planetsData;
 var planetsArray = [];
 
