@@ -57,20 +57,6 @@ function draw () {
 
 }
 
-class Star {
-	constructor () {
-
-	}
-
-	animate () {
-
-	}
-
-	display() {
-
-	}
-}
-
 class Planet {
 
 	constructor (name, radius, axialTilt, orbitIncline, orbitPeriod, rotationPeriod, distance) {
@@ -96,3 +82,17 @@ class Planet {
 		torus(this.distance, this.tubeRadius, 120, 70);
 	}
 }
+
+// class Star {
+// 	constructor () {
+//
+// 	}
+//
+// 	animate () {
+//
+// 	}
+//
+// 	display() {
+//
+// 	}
+// }
