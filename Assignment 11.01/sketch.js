@@ -2,7 +2,7 @@ var mouseIsDown = false;
 
 var ballArray = [];
 
-function setup(){
+function setup() {
 
 	noStroke();
 	createCanvas(windowWidth, windowHeight);

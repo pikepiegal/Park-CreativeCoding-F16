@@ -1,0 +1,83 @@
+{
+  "planet" : [
+    {
+      "name" : "Mercury",
+      "radius" : "2439.5",
+      "axialTilt" : "0.00017",
+      "orbitIncline" : "0.122",
+      "orbitPeriod" : "0.415",
+      "rotationPeriod" : "0.017",
+      "distance" : "0.387"
+    },
+
+    {
+      "name" : "Venus",
+      "radius" : "6052",
+      "axialTilt" : "3.096",
+      "orbitIncline" : "0.059",
+      "orbitPeriod" : "0.1625",
+      "rotationPeriod" : "-0.0041",
+      "distance" : "0.723"
+    },
+
+    {
+      "name" : "Earth",
+      "radius" : "6378",
+      "axialTilt" : "0.4084",
+      "orbitIncline" : "0.0",
+      "orbitPeriod" : "0.1",
+      "rotationPeriod" : "1.0",
+      "distance" : "1.00"
+    },
+
+    {
+      "name" : "Mars",
+      "radius" : "3396",
+      "axialTilt" : "0.4398",
+      "orbitIncline" : "0.033",
+      "orbitPeriod" : "0.0532",
+      "rotationPeriod" : "1.03",
+      "distance" : "1.524"
+    },
+
+    {
+      "name" : "Jupiter",
+      "radius" : "71392",
+      "axialTilt" : "0.054",
+      "orbitIncline" : "0.0227",
+      "orbitPeriod" : "0.00843",
+      "rotationPeriod" : "2.4",
+      "distance" : "5.203"
+    },
+
+    {
+      "name" : "Saturn",
+      "radius" : "60268",
+      "axialTilt" : "0.466",
+      "orbitIncline" : "0.0436",
+      "orbitPeriod" : "0.00339",
+      "rotationPeriod" : "2.23",
+      "distance" : "9.523"
+    },
+
+    {
+      "name" : "Uranus",
+      "radius" : "25559",
+      "axialTilt" : "1.707",
+      "orbitIncline" : "0.014",
+      "orbitPeriod" : "0.00119",
+      "rotationPeriod" : "-0.1335",
+      "distance" : "19.203"
+    },
+
+    {
+      "name" : "Neptune",
+      "radius" : "24764",
+      "axialTilt" : "0.494",
+      "orbitIncline" : "0.0314",
+      "orbitPeriod" : "0.0006",
+      "rotationPeriod" : "1.48",
+      "distance" : "30.087"
+    }
+  ]
+}
